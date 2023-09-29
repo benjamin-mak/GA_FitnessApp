@@ -25,6 +25,7 @@
     "react-dom": "^18.2.0",
     "react-filepond": "^7.1.2",
     "react-filerobot-image-editor": "^4.5.2",
+    "react-konva": "^18.2.10",
     "react-router-dom": "^6.16.0",
     "styled-components": "^5.3.11",
     "use-react-screenshot": "^3.0.0"
